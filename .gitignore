@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+users.db
+energy_data.db
+.env
+
+
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+
+# OS
+.DS_Store
